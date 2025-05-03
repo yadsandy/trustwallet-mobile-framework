@@ -18,7 +18,7 @@ This project defines the automation of android app using appium.
 
    `appium driver install uiautomator2`
 9. Clone the project from https://github.com/yadsandy/trustwallet-mobile-framework
-10. Download the latest Android apk from https://trustwallet.com/ and place it in [apps](src/test/resources/apps) folder
+10. Download the latest Android apk from https://trustwallet.com/ and place it in [resources](src/test/resources) folder
     and replace the apk name as app_release.apk
 
 ## Execution of Test Cases
