@@ -59,9 +59,10 @@ Steps:
 
 ## Execution Result :
 
-Console Output -
+Console and logs Output -
 ![Screenshot 2025-05-04 001240.png](src/test/resources/images/Screenshot%202025-05-04%20001240.png)
 ![Screenshot 2025-05-04 005952.png](src/test/resources/images/Screenshot%202025-05-04%20005952.png)
+
 Extent Report -
 ![Screenshot 2025-05-04 001307.png](src/test/resources/images/Screenshot%202025-05-04%20001307.png)
 ![Screenshot 2025-05-04 001328.png](src/test/resources/images/Screenshot%202025-05-04%20001328.png)
