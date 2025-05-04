@@ -1,6 +1,6 @@
 # Trust Wallet Android App Automation Using Appium
 
-This project defines the automation of Trust wallet android app using appium. Its a POM framework integrated with testng, maven and extent reporting.
+This project defines the automation of Trust wallet android app using appium. It's a POM framework integrated with testng, maven and extent reporting.
 It also contains the list of manual test cases related to create new wallet feature which future use to automate the same flows.
 
 ## Prerequisites for the project
